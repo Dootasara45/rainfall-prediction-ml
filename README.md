@@ -47,6 +47,6 @@ Achieved **83.3%** accuracy using a Random Forest Classifier.
 
 ## 🙋‍♀️ Author
 **Doota Sara**  
-[LinkedIn Profile]([https://www.linkedin.com/in/dootasara])
-[GitHub Profile]([https://github.com/Dootasara45])
+[LinkedIn Profile](https://www.linkedin.com/in/dootasara)
+[GitHub Profile](https://github.com/Dootasara45)
 
